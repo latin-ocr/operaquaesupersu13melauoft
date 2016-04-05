@@ -1,0 +1,125 @@
+605
+
+Duodecimn.
+
+In secunda figura tantum fiunt negativi syl-
+logismi, quia est antithesis duarum specierum,
+nec fit conclusio speciei in genere, ut in prima
+figura. Ac duarum specierum diversitatem osten-
+dit minore et conclusione illata per contrapositio-
+nem, ut infra dicam. Tantum igitur fiunt nega-
+tivi syllogismi. Nam si fierent affirmativi, proce-
+deretur ex puris particularibus, seu a uon distri-
+buto ad distributum, nec medium causa esset, cur
+in conclusione diversae species iungerentur, ut:
+
+Omnis homo est bipes,
+Omnis gallina est bipes,
+Ergo omnis gallina est homo.
+
+Subiecta in maiore et minore sunt duae di-
+versae species, nec alterum in altero inclusum est.
+Si vis affirmative argumentari, neccsse est me-
+dium esse universale, quod sit causa, quare re-
+liquae duae voces in conclusione affirmativa iun-
+gantur. Constat autem medium, scilicet Bipes,
+particulare esse, ut natura affirmativi signi prae-
+dicatum particulare facit, quod ostendit conver-
+sio, ut: Quoddam bipes est homo. Non autem
+valet consequentia:
+
+Quoddam bipes est bomo,
+Omnis gallina est bipes ‚
+Ergo gallina est homo.
+
+Manifestum est hie nullam esse connexio-
+nem, cum de aliis maior, de aliis minor loquatur.
+Saepe autem incauti decipiuntur affirmativis syl-
+logismis secundae figurae, curn a communibus
+signis argumentantur, ut:
+
+Omnis stella lucet ‚
+Omnis Cometa lucet,
+Ergo omnis Cometa est stella.
+
+Decipiuntur enim hac propositione particu-
+lari: Aliquid lucens est stella. Deinde attexunt
+caetera. Et hic regula discenda est, non semper
+eadem esse, quaein aliquo tertio conveniunt, ut
+diversae species conveniunt in genere, et aliis
+multis proprietatibus, ut: Equus et asinus con-
+veniunt in communi genere, item in proprietate,
+quod uterque est quadrupes, gestator.
+
+Tredecima.
+
+ln tertia figura non sit conclusio universalis.
+Perspicua ratio est, quia , ut prima figura proce-
+dit universaliter a genere ad speciem, cum conclu-
+sione universali, ita tertia figura procedit a specie
+
+V. EROTEMATA DIALECTICES.
+
+s
+
+606
+
+ad genus. Posita enim specie, necesse est poni
+genus. Sed conclusio tantum fit particularis, quia
+aliquid tribuitur generi propter unam speciem,
+quod non potest universaliter generi tribui, ut:
+
+Malvaticum est dulce,
+
+Malvaticum est vinum,
+
+Ergo quaedam vina dulcia sunt.
+
+Harum regularum omnium causae sumi pos-
+sunt ex demonstratione de figuris, quam postea
+recitabo, etsi nunc in ipsis regulis semina demon-
+strationis illius sparsi, ut studiosi deducantur ad
+fontes, et causas bonarum consequentiarum con-
+siderent.
+
+Quot sunt figurae Sylloyz’smorwn?
+
+Tres sunt figurae, variatae collocatione me-
+dii, quae ideo variatur, quia non potest in omni-
+bus materiis eodem modo procedi. Alias itura
+genere ad speciem, id fit in prima figura , Alias a
+specie ad genus, id fit in tertia figura, Alias diver-
+sae species discernuntur, id fit in secunda figura,
+ut infra rursus dicam. Est autem figura ordo ter-
+minorum, qui variatur collocatione medii.
+
+Quae est prima figura?
+
+Prima figura est talis ordo propositionum
+syllogismi, ut medius terminus sit subiectum in
+maiore, et praedicatum in minore, unde conclu-
+sio necessario sequitur. Haec puerilis descriptio
+est, sed causa consideretur. Ideo subiectum ma-
+iori⁵ in minore fit praedicatum, quia cum a ge-
+nere ad speciem procedatur, et propter genus ali-
+quid de specie dicatur, necesse est alteram pro-
+positionem ita constitui, ut conspici possit, spe-
+ciem in genere inclusam esse. Genus igitur in
+praedicati loco repeti necesse est. Et hanc dispo-
+sitionem minime confragosam esse mens naturali
+luce videt.
+
+Quot sunt modi primae figurae?
+
+Quatuor directe concludentes. Nam alios vo-
+lens omitto ‚ cum supra de conversionibus dictum
+sit, unde intelligi potest⁷ quae propositiones ad
+quas in conversione sequantur. Sunt autem do·
+cendi causa attributa modis haec nomina:
+
+Barbara ‚ celarent, Darii, Ferio.
+In his literae admonent, qualium propositionum
+connexio sit:
+A significat universalem affirmativam.
+E significat universalem negativam.
+

@@ -1,0 +1,143 @@
+ 
+
+637
+
+De Syllogismis hypotheticis.
+
+Quid est propositio hypothetica?
+
+Est propositio, in qua duae categoricae per
+aliquam coniunctionem, ut Grammatici nomi-
+nant, connexa sunt, ut: Si emes, erit dandum
+preclum.
+
+Quot sunt species?
+
+Tres: conditionalis, Copulativa, Disiun-
+ctiva.
+particula Si, quae significat propositionem totam
+nihil asseverare, nisi posita causa, vel modo,
+quem particula Si designat, ut: Si Pharao ob—
+temperabit Moysi, non peribit.
+
+Dic regulam de veritate conditionalium.
+Conditionalis nihil asseverat, nisi posita
+causa vel modo in antecedente, ut: Si asinus vo-
+lat, habet pennas, haec nihil statuit, sed quae-
+renda·est alterius partis veritas, quae explicatur
+in integro syllogismo.
+
+Quomodo fiant syllogismi conditionalium?
+
+Hoc modo, Initio ponitur tota conditionalis,
+deinde loco minoris altera pars sumitur, unde
+ratiocinamur in conclusione alteram. Ita fit as-
+severatio collecto integro syllogismo. Exemplum:
+
+Si emit, debet precium,
+Sed emit,
+Ergo debet precium.
+
+Regulae traduntur: Valet consequentia affir-
+mative a positione antecedentis ad positionem
+consequentis, ut:
+
+Si homo est, animal est,
+Sed bomo est,
+Ergo animal est.
+
+Valet consequentia negative a destructione
+
+consequentis ad destructionem antecedentis, ut.-
+Si homo est, animal cst,
+Sed nullum animal est,
+Ergo homo est.
+
+Ratio harum consequentiarum ex locis sumi
+potest, ubi videmus, quomodo a specie ad genus
+et econtra ducantur argumenta. Quare pro his
+regulis consulendi potius erunt loci. Et valebit
+consequentia, si locorum regulis congruet, ut a
+causis ad proprios effectus et econtra, affirmative
+et negative argumentamur.
+
+V. EROTEMATA DlALECTICES.
+
+Prima est Conditionalis, cui praeponitur “
+
+Idem fit in conver· A
+tibilibus, id est, idem significantibus, ut ex hac ,
+
+638
+
+propositione gignere potes affirmativum et' nega--
+tivum syllogismum: Si Luna Soli ex diametro op-
+ponetur hoc mense, erit eclipsis Lunae.
+
+Quid est Copulatica?
+
+Copulativa est, in qua duae propositiones
+
+iunguntur per particulam copulativam, ut:
+Et mortuus est Christus, ut pro nobis vi-
+ctima fieret, etex morte revixit , ut nos
+ι regat nova luce et iusticia, et vita ae·
+
+terna donet.
+
+Et necessaria est disciplina, id est, assue—
+factio ad bonos mores, et potest hu—
+mana voluntas disciplinam utcunque
+
+praestare.
+
+Dic requiam de veritate copulativae.
+Ad veritatem copulativae requiritur, ut utra—
+que pars sit vera, ut:
+
+Et manet in renatis in hac mortali vita in-
+firmitas repugnans legi Dei, et renatus
+iustus est, id est, acceptus Deo propter
+Filium Mediatorem, fide.
+
+ 
+
+Quomodo fiunt inde sylloyismi?
+
+Hoc modo: A tota copulativa ad quamlibet
+eius partem, est bona consequentia, ut si haec
+tota vera est, necesse est partes veras esse:
+
+Et politicus ordo in societate humana, Dei
+beneficium est, et ab eo conservatur, et
+accedunt in imperiis multae confusiones
+et vitia, quae non oriuntur a Deo, ut
+
+blasphemiae et tyrannides,
+
+Sed haec tota vera est.
+
+Verum est igitur blasphemias et tyrannides,
+quae sunt imperiorum confusiones, et
+vitia , nequaquam a Deo oriri.
+
+Non autem vale-t consequentia a parte copu-
+lativae ad totam, quia deprehensa falsitate unius
+partis , non admittenda est tota copulativa. Con-
+
+Ι fusio est enirn per copulam vera et falsa iungere.
+Caeterum Grammatici est iudicare, quando co-
+pula vere habeat vim copulae, videlicet , cum-res
+plures ac diversas iungit, ut: pugnavlt et vmrt.
+Quando non tarn copulae, quam interpretationis
+
+ε vim habeat, ut interdum posito genere, species
+
+= per copulam attexitur: Cura scholasticum, et di-
+
+* ligenter erudias. Nec est inutilis diligentia , eon-
+
+ἶ siderare vim harum particularum, sed sit modus
+
+subtilitatis, et accedat dexteritas in iudicando.
+
